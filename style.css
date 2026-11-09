@@ -8,7 +8,7 @@
 body {
   font-family: system-ui, -apple-system, sans-serif;
   color: #c8cdd4;
-  background-color: #1f60a0;
+  background-color: #8ba3ba;
   line-height: 1.6;
 }
 
@@ -63,10 +63,10 @@ main {
 }
 
 article {
-  background: #415e8f;
+  background: #4c6490;
   padding: 2rem;
   border-radius: 8px;
-  box-shadow: 0 1px 3px rgba(64, 83, 154, 0.05);
+  box-shadow: 0 1px 3px rgba(101, 108, 134, 0.05);
   margin-bottom: 2rem;
 }
 
@@ -85,10 +85,10 @@ article h2 {
 }
 
 .card {
-  background: #2b5885;
+  background: #b4bfca;
   padding: 1.5rem;
   border-radius: 8px;
-  border: 1px solid #6b1d74;
+  border: 1px solid #e5cde8;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
@@ -105,12 +105,12 @@ article h2 {
 
 .card p {
   font-size: 0.9rem;
-  color: #1a3d6e;
+  color: #6586ae;
 }
 
 /* Aside Bilah Samping */
 aside {
-  background: #ffffff;
+  background: #5676b0;
   padding: 1.5rem;
   border-radius: 8px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.05);
